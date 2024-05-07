@@ -9,6 +9,8 @@ Create a prototype with plan for an **'Installation Art'** piece. It must be Int
   - A description of the ideal environment for your project. If this was to be installed somewhere permanently, what is the intended space? Photos or real world locations or sketches of the intended setup are encouraged!
   - A list of preferred hardware to make this ideal solution possible. What input sensors would you need? What screen formats? As best as you can estimate, how much would this installation cost to produce? (Note: the most expensive solutions are not always the best ones. Budget should be part of your consideration for an ideal solution)
   - A description on how you could make this immersive. Looking at examples such as Meow WolfLinks to an external site.,  teamLabLinks to an external site.,  and moreLinks to an external site. - what type of Set Dressing could you use to make your installation more immersive?
+ 
+**Project Description:** https://github.com/cdeguzman1208/Installation-Project/blob/main/Description.pdf
 
 **Repository Link:** https://github.com/cdeguzman1208/Installation-Project
 
